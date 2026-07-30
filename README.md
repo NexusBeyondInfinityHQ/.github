@@ -11,11 +11,21 @@
 <img src="https://img.shields.io/badge/Community-Driven-3B82F6?style=for-the-badge&labelColor=0F172A">
 <img src="https://img.shields.io/badge/Always-Learning-14B8A6?style=for-the-badge&labelColor=0F172A">
 
+<br><br>
+
+<!-- SOCIALS TEMPLATE — replace URL and handle in each href/label -->
+<a href="https://twitter.com/NexusBInfinity"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"></a>
+<a href="https://linkedin.com/company/nexus-beyond-infinity/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://nexusinfinity.vercel.app"><img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8"></a>
+<a href="mailto:nexusbeyondinfinity@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
 </div>
 
 <br>
 
-<h1>Nexus Infinity</h1> is a collective of developers, designers, and innovators building modern open-source software that pushes ideas past their limits.
+## Nexus Infinity
+
+**Nexus Infinity** is a collective of developers, designers, and innovators building modern open-source software that pushes ideas past their limits.
 
 We don't just ship applications — we craft tools, frameworks, and platforms that developers genuinely enjoy using. From AI-powered experiences to developer infrastructure, every project is designed around performance, simplicity, and long-term maintainability.
 
@@ -95,17 +105,45 @@ Knowledge grows when shared. Communities build better software.
 ## 🛠 Technology
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,python,rust,go,cpp,java,react,nextjs,nodejs,tailwind,docker,kubernetes,postgres,mongodb,redis,git,linux,vscode&perline=10"/>
+
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=ts,js,python,rust,go,cpp,c,java,kotlin,swift,dart,php,ruby&perline=13"/>
+
+<br><br>
+
+**Frameworks & Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,tailwind,html,css,flutter,electron,threejs&perline=13"/>
+
+<br><br>
+
+**Backend & Runtime**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,graphql,nginx,bun,deno&perline=13"/>
+
+<br><br>
+
+**Data & Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,sqlite,supabase,firebase,elasticsearch&perline=13"/>
+
+<br><br>
+
+**Cloud, DevOps & Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,githubactions,terraform,vercel,cloudflare,linux,git,vscode,figma&perline=13"/>
+
 </p>
 
-
-## 📊 Organization Activity
+<br>
+📊 Organization Activity
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NexusBeyondInfinity&theme=tokyo-night&hide_border=true" width="90%"/>
 
 </div>
+
 <br>
 
 ## 🌍 Join the Journey
