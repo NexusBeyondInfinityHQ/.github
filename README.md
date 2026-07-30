@@ -15,9 +15,7 @@
 
 <br>
 
-## 🌌 About
-
-**Nexus Infinity** is a collective of developers, designers, and innovators building modern open-source software that pushes ideas past their limits.
+<h1>Nexus Infinity</h1> is a collective of developers, designers, and innovators building modern open-source software that pushes ideas past their limits.
 
 We don't just ship applications — we craft tools, frameworks, and platforms that developers genuinely enjoy using. From AI-powered experiences to developer infrastructure, every project is designed around performance, simplicity, and long-term maintainability.
 
@@ -100,31 +98,14 @@ Knowledge grows when shared. Communities build better software.
 <img src="https://skillicons.dev/icons?i=ts,js,python,rust,go,cpp,java,react,nextjs,nodejs,tailwind,docker,kubernetes,postgres,mongodb,redis,git,linux,vscode&perline=10"/>
 </p>
 
-<br>
-
-## 📖 Philosophy
-
-> Great software isn't measured by how much code it contains — it's measured by how many problems it solves.
->
-> We believe simplicity scales. We believe quality compounds. We believe open source changes everything.
-
-<br>
 
 ## 📊 Organization Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nexus-infinity&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nexus-infinity&theme=tokyonight&hide_border=true" height="165"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nexus-infinity&theme=tokyo-night&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NexusBeyondInfinity&theme=tokyo-night&hide_border=true" width="90%"/>
 
 </div>
-
-> Replace `nexus-infinity` above with your actual GitHub org/username so the stats widgets render correctly.
-
 <br>
 
 ## 🌍 Join the Journey
@@ -141,21 +122,3 @@ Whether you're a Developer 💻, Designer 🎨, Technical Writer ✍️, Tester 
 🔒 Enhance Security
 💙 Submit Pull Requests
 ```
-
-Every contribution matters. Together, we build software that lasts.
-
-<br>
-
-<div align="center">
-
-## ♾️ Beyond Code
-
-> *"The future isn't something we wait for — it's something we build."*
-
-⭐ **Star our repositories if our work inspires you.**
-
-### Welcome to **Nexus Infinity**.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:22D3EE,50:6366F1,100:0F172A"/>
-
-</div>
